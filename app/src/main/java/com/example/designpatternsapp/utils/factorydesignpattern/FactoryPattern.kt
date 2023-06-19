@@ -2,7 +2,6 @@ package com.example.designpatternsapp.utils
 
 import android.app.Dialog
 import android.content.Context
-import com.example.designpatternsapp.R
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 interface CustomDialog{
